@@ -1,7 +1,7 @@
 ### Hey there  👋
 
 
-- 🔭 I’m currently working in semiconductor industry
+- 🔭 I’m currently working in the semi conducter industry implementing tests and newly got into the Field-programmable gate array field
 - 🌱 I’m currently learning LLVM, Latex and trying mastering Django
 - 👯 I’m looking to collaborate on Machine Learning project and data analysis
 - 💬 Ask me about: mpl, unit test, Gui dev, Qt5 and Python related topics  
