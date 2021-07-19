@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayen</h1>
-<h3 align="center">Passionate about software developpment and looking continousely to improve my skills</h3>
+<h3 align="center">Passionate about software development and looking continousely to improve my skills</h3>
 
 - 👓: Working as **Working Student/ Software developer at Infineon Technologies**
 
