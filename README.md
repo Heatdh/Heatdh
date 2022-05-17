@@ -3,7 +3,7 @@
 
 - 👓: Working as **Working Student/ Software developer at Infineon Technologies**
 
-- 💬 Ask me about **mpl, unittest, Gui dev, Qt5 and Python related topics**
+- 💬 Ask me about ** TFLite, PyTorch, mpl, unittest, Gui dev, Qt5 and Python related topics**
 
 - 📫 How to reach me **Linkedin or contact for access to private projects (Dashboards / Model tuning / Chess Multiplayer game / Midi Signal conversion for Musical Robots ...) Ps: Only those that i worked on independantly or public.**
 
