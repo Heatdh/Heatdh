@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rayen</h1>
 <h3 align="center">Passionate about software development and looking continousely to improve my skills</h3>
 
-- 👓: Working as **Working Student/ Software developer at Infineon Technologies**
+- 👓:MSc in Robotics, Cognition, Intelligen at TUM/ Working as **Working Student/ Software developer at Infineon Technologies**
 
-- 💬 Ask me about **TFLite, PyTorch, mpl, unittest, Gui dev, Qt5 and Python related topics**
+- 💬 Ask me about **TFLite, PyTorch, mpl, EdgeAI unittest, Gui dev, Qt5 **
 
 - 📫 How to reach me **Linkedin or contact for access to private projects (Dashboards / Model tuning / Chess Multiplayer game / Midi Signal conversion for Musical Robots ...) Ps: Only those that i worked on independantly or public.**
 
