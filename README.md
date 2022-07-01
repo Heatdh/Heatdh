@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayen</h1>
 <h3 align="center">Passionate about software development and looking continousely to improve my skills</h3>
 
-- 👓:MSc in Robotics, Cognition, Intelligen at TUM/ Working as **Working Student/ Software developer at Infineon Technologies**
+- 👓MSc in Robotics, Cognition, Intelligen at TUM/ Working as **Working Student/ Software developer at Infineon Technologies**
 
 - 💬 Ask me about **TFLite, PyTorch, mpl, EdgeAI unittest, Gui dev, Qt5 **
 
