@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **TFLite, PyTorch, mpl, EdgeAI unittest, Gui dev, Qt5**
 
-- 📫 How to reach me **Linkedin or contact for access to private projects (Dashboards / Model tuning / Chess Multiplayer game / Midi Signal conversion for Musical Robots ...) Ps: Only those that i worked on independantly or public.**
+- 📫 How to reach me **Linkedin or contact for access to private projects (CNN, Image Segmentation, Dashboards / Model tuning / Chess Multiplayer game / Midi Signal conversion for Musical Robots ...) Ps: Only those that i worked on independantly or public.**
 
 - ⚡ Fun fact **Fun fact: My Mic is finally fixed :D**
 
