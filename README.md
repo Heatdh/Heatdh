@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayen</h1>
-<h3 align="center">Passionate about software development and looking continousely to improve my skills</h3>
+<h3 align="center">ML Enthausiastic, bring your problem statement and let's colab</h3>
 
 - 👓MSc in Robotics, Cognition, Intelligence at TUM/ Working as **Working Student/ Software developer at Infineon Technologies**
 
