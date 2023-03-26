@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayen</h1>
 <h3 align="center">ML Enthausiastic, bring your problem statement and let's colab</h3>
 
-- 👓MSc in Robotics, Cognition, Intelligence at TUM/ Working as **Working Student/ Software developer at Huawei**
+- 👓MSc in Robotics, Cognition, Intelligence at TUM/ Working as **Working Student/ ML Enginner at Huawei**
 
 - 💬 Ask me about **TFLite, PyTorch, mpl, EdgeAI unittest, Gui dev, Qt5**
 
