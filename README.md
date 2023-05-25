@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **Linkedin or contact for access to private projects (CNN, Image Segmentation, Model compression and deployment, Intervactive Dashboards, Model tuning, Chess Multiplayer game, Midi Signal conversion for Musical Robots ...) Ps: Only those that i worked on independantly or public.**
 
-- ⚡ Fun fact **Fun fact: My Mic is finally fixed :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
